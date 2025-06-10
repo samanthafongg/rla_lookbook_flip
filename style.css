@@ -136,8 +136,8 @@ input {
 
 /* FLIP BOOK */
 #flip_book {
-    width: 450px; /* base width */
-    height: 650px; /* base height */
+    width: 480px; /* base width */
+    height: 700px; /* base height */
     position: relative;
     transition-duration: 1s;
     perspective: 2000px;
